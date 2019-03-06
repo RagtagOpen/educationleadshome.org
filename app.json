@@ -1,8 +1,8 @@
 {
-  "name": "WordPress",
-  "description": "WordPress is open source software you can use to create a beautiful website, blog, or app.",
-  "website": "https://wordpress.org/",
-  "repository": "https://github.com/ragtagteam/ragtag-wordpress-heroku",
+  "name": "EducationLeadsHome.org",
+  "description": "",
+  "website": "https://educationleadshome.org/",
+  "repository": "https://github.com/ragtagopen/educationleadshome.org",
   "success_url": "/wp/wp-admin",
   "scripts": {
     "postdeploy": [

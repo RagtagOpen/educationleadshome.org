@@ -1,6 +1,6 @@
 {
-  "name": "ragtagteam/ragtag-wordpress-heroku",
-  "description": "Boilerplate for deploying WordPress on Heroku",
+  "name": "ragtagopen/educationleadshome.org",
+  "description": "",
   "config": {
     "preferred-install": "dist",
     "platform": {
