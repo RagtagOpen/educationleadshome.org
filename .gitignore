@@ -38,3 +38,9 @@ web/app/object-cache.php
 web/app/advanced-cache.php
 wp-content/plugins
 wp-content/
+
+# Local by Flywheel
+/app
+/logs
+/conf
+
