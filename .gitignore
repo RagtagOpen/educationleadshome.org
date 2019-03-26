@@ -7,6 +7,9 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 web/app/themes/*
 !web/app/themes/.gitkeep
+!web/app/themes/business-wpcom/*
+!web/app/themes/calm-business-wpcom/*
+!web/app/themes/modern-business-wpcom/*
 
 # WordPress
 web/wp
