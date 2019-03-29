@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f0e88d67fe90a4caa2af2d43b8ed4a49",
+    "content-hash": "606cb1ba3829b8af47e2ed58891d7fec",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -4049,6 +4049,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-ses/"
+        },
+        {
+            "name": "wpackagist-theme/coblocks",
+            "version": "1.2.4",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/coblocks/",
+                "reference": "1.2.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/coblocks.1.2.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/coblocks/"
         },
         {
             "name": "wpackagist-theme/twentynineteen",
