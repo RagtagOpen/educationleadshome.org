@@ -11,3 +11,63 @@
  Tags:         one-column, custom-colors, editor-style, custom-logo, custom-menu, featured-images, theme-options, translation-ready, blog, photography
  Text Domain:  co-blocks-child
 */
+
+/*Editor Color Palette Custom Colors*/
+.has-elh-white-color {
+	color: white;
+}
+.has-elh-purple-black-color {
+	color: rgb(31, 0, 43);
+}
+.has-elh-aubergine-color {
+	color: rgb(81, 1, 133);
+}
+.has-elh-black-color {
+	color: #272727;
+}
+.has-elh-lilac-color {
+	color: #8D78F4;
+}
+.has-elh-silver-color {
+	color: #C7C7C7;
+}
+.has-elh-pink-color{
+	color: #F62A8D;
+}
+.has-elh-gold-color {
+	color: #FFB300;
+}
+
+.has-elh-white-background-color {
+	background: white;
+}
+.has-elh-purple-black-background-color {
+	background: rgb(31, 0, 43);
+}
+.has-elh-aubergine-background-color {
+	background: rgb(81, 1, 133);
+}
+.has-elh-black-background-color {
+	background: #272727;
+}
+.has-elh-lilac-background-color {
+	background: #8D78F4;
+}
+.has-elh-silver-background-color {
+	background: #C7C7C7;
+}
+.has-elh-pink-background-color{
+	background: #F62A8D;
+}
+.has-elh-gold-background-color {
+	background: #FFB300;
+}
+
+.entry-content a.has-elh-aubergine-color,
+.has-elh-aubergine-color {
+	color: rgb(81, 1, 133);
+}
+.entry-content a.has-elh-white-color,
+.has-elh-white-color {
+	color: white;
+}
