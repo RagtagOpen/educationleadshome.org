@@ -68,6 +68,7 @@
     },
     "WP_ENV": {
       "required": true,
+      "value": "dev",
       "description": "Which environment is this build in?"
     }
   },
