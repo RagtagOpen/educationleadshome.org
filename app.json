@@ -63,7 +63,7 @@
       "generator": "secret"
     },
     "HEROKU_APP_NAME": {
-      "required": false,
+      "required": true,
       "description": "Only for automated deploys, please don't enter anything!"
     },
     "WP_ENV": {
