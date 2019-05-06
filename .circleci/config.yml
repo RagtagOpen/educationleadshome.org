@@ -7,11 +7,11 @@ jobs:
       - run:
           name: Git Update
           command: |
-            ssh -vv $SSH_USER@$SSH_HOST "cd educationleadshome.org && git pull --rebase"
+            ssh $SSH_USER@$SSH_HOST "cd educationleadshome.org && git pull --rebase"
       - run:
           name: Composer Update
           command: |
-            ssh $SSH_USER@$SSH_HOST "cd educationleadshome.org && composer install"
+            ssh $SSH_USER@$SSH_HOST "cd educationleadshome.org && /home/dh_q37pf3/.php/composer/composer install"
 workflows:
   version: 2
   deploy:
