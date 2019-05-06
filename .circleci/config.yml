@@ -7,7 +7,7 @@ jobs:
       - run:
           name: Git Update
           command: |
-            ssh $SSH_USER@$SSH_HOST "cd educationleadshome.org && git pull --rebase"
+            ssh -vv $SSH_USER@$SSH_HOST "cd educationleadshome.org && git pull --rebase"
       - run:
           name: Composer Update
           command: |
