@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ae34f16c0d8e1ab5908df253d24ebc89",
+    "content-hash": "e1aadfd27a6257a3da3a77c3b1597e3b",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3902,6 +3902,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/updraftplus/"
+        },
+        {
+            "name": "wpackagist-plugin/vaultpress",
+            "version": "1.9.10",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/vaultpress/",
+                "reference": "tags/1.9.10"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/vaultpress.1.9.10.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/vaultpress/"
         },
         {
             "name": "wpackagist-plugin/wordfence",
