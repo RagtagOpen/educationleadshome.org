@@ -24,7 +24,7 @@ This section guides you through submitting a bug report for EducationLeadsHome.o
 
 #### Before Submitting a Bug Report
 
-- Perform a [cursory search](https://github.com/ragtagopen/project-slug/issues) to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- Perform a [cursory search](https://github.com/ragtagopen/educationleadshome.org/issues) to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
   _If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one._
 
 #### How Do I Submit a Good Bug Report?
@@ -62,7 +62,7 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 
 #### Before Submitting An Enhancement Suggestion
 
-- Perform a [cursory search](https://github.com/ragtagopen/project-slug/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Perform a [cursory search](https://github.com/ragtagopen/educationleadshome.org/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
@@ -81,8 +81,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 Unsure where to begin contributing to EducationLeadsHome.org? You can start by looking through these `good first issue` and `help wanted` issues:
 
-- [Good first issues](https://github.com/ragtagopen/project-slug/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+sort%3Acomments-desc) - issues which should only require a few lines of code, and a test or two.
-- [Help wanted issues](https://github.com/ragtagopen/project-slug/issues?q=is%3Aopen+is%3Aissue+label%3A"help wanted"+sort%3Acomments-desc) - issues which should be a bit more involved than beginner issues.
+- [Good first issues](https://github.com/ragtagopen/educationleadshome.org/issues?q=is%3Aopen+is%3Aissue+label%3A"good+first+issue"+sort%3Acomments-desc) - issues which should only require a few lines of code, and a test or two.
+- [Help wanted issues](https://github.com/ragtagopen/educationleadshome.org/issues?q=is%3Aopen+is%3Aissue+label%3A"help wanted"+sort%3Acomments-desc) - issues which should be a bit more involved than beginner issues.
 
 _Both issue lists are sorted by total number of comments. While not perfect, number of comments is a reasonable proxy for impact a given change will have._
 
