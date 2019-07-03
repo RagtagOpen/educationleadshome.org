@@ -4005,15 +4005,15 @@
         },
         {
             "name": "wpackagist-plugin/yikes-inc-easy-mailchimp-extender",
-            "version": "6.5.2",
+            "version": "6.5.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/yikes-inc-easy-mailchimp-extender/",
-                "reference": "tags/6.5.2"
+                "reference": "tags/6.5.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/yikes-inc-easy-mailchimp-extender.6.5.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/yikes-inc-easy-mailchimp-extender.6.5.3.zip",
                 "reference": null,
                 "shasum": null
             },
