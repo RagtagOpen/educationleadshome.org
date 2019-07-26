@@ -3745,7 +3745,7 @@
         },
         {
             "name": "wpackagist-plugin/coblocks",
-            "version": "1.11.1",
+            "version": "1.12.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/coblocks/",
@@ -3753,7 +3753,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/coblocks.zip?timestamp=1562190123",
+                "url": "https://downloads.wordpress.org/plugin/coblocks.zip?timestamp=1564098586",
                 "reference": null,
                 "shasum": null
             },
@@ -3765,15 +3765,15 @@
         },
         {
             "name": "wpackagist-plugin/disable-comments",
-            "version": "1.9.0",
+            "version": "1.10.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/disable-comments/",
-                "reference": "tags/1.9.0"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/disable-comments.1.9.0.zip",
+                "url": "https://downloads.wordpress.org/plugin/disable-comments.zip?timestamp=1563798431",
                 "reference": null,
                 "shasum": null
             },
@@ -3885,15 +3885,15 @@
         },
         {
             "name": "wpackagist-plugin/updraftplus",
-            "version": "1.16.15",
+            "version": "1.16.16",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/updraftplus/",
-                "reference": "tags/1.16.15"
+                "reference": "tags/1.16.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.15.zip",
+                "url": "https://downloads.wordpress.org/plugin/updraftplus.1.16.16.zip",
                 "reference": null,
                 "shasum": null
             },
