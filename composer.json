@@ -44,7 +44,8 @@
     "wpackagist-theme/coblocks": "^1.2.4",
     "wpackagist-plugin/gutenberg": "^5.3.0",
     "wpackagist-plugin/coblocks": "^1.9.2",
-    "wpackagist-plugin/vaultpress": "^1.9"
+    "wpackagist-plugin/vaultpress": "^1.9",
+    "wpackagist-plugin/ga-google-analytics": "^20190501"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
