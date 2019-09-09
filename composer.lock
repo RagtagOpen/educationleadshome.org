@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7f0baded5b442243952f19bb5e894be9",
+    "content-hash": "e1aadfd27a6257a3da3a77c3b1597e3b",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3747,7 +3747,7 @@
         },
         {
             "name": "wpackagist-plugin/coblocks",
-            "version": "1.12.1",
+            "version": "1.13.0",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/coblocks/",
@@ -3755,7 +3755,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/coblocks.zip?timestamp=1566918807",
+                "url": "https://downloads.wordpress.org/plugin/coblocks.zip?timestamp=1567722818",
                 "reference": null,
                 "shasum": null
             },
@@ -3784,26 +3784,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/disable-comments/"
-        },
-        {
-            "name": "wpackagist-plugin/ga-google-analytics",
-            "version": 20190501,
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/ga-google-analytics/",
-                "reference": "tags/20190501"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/ga-google-analytics.20190501.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/ga-google-analytics/"
         },
         {
             "name": "wpackagist-plugin/gutenberg",
@@ -4027,15 +4007,15 @@
         },
         {
             "name": "wpackagist-plugin/yikes-inc-easy-mailchimp-extender",
-            "version": "6.5.4",
+            "version": "6.5.5",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/yikes-inc-easy-mailchimp-extender/",
-                "reference": "tags/6.5.4"
+                "reference": "tags/6.5.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/yikes-inc-easy-mailchimp-extender.6.5.4.zip",
+                "url": "https://downloads.wordpress.org/plugin/yikes-inc-easy-mailchimp-extender.6.5.5.zip",
                 "reference": null,
                 "shasum": null
             },

@@ -11,5 +11,6 @@ Version: 1.0
 add_action( 'wp_head', 'ragtag_wp_head_customizations' );
 
 function ragtag_wp_head_customizations() {
-  // echo('<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c12853a51b1bfe0d4a53a760e/28e040a3fbe168f8d57c8a62a.js");</script>');
+  echo('<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c12853a51b1bfe0d4a53a760e/28e040a3fbe168f8d57c8a62a.js");</script>');
+  echo('<!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-145699920-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag(\'js\', new Date());gtag(\'config\', \'UA-145699920-1\');</script>');
 }
