@@ -3747,15 +3747,15 @@
         },
         {
             "name": "wpackagist-plugin/coblocks",
-            "version": "1.17.2",
+            "version": "1.17.3",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/coblocks/",
-                "reference": "tags/1.17.2"
+                "reference": "tags/1.17.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/coblocks.1.17.2.zip",
+                "url": "https://downloads.wordpress.org/plugin/coblocks.1.17.3.zip",
                 "reference": null,
                 "shasum": null
             },
